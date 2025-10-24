@@ -1,79 +1,96 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
+<h2 align="left">Hi 👋! My name is Muhammad Shahrukh Nasir and I'm a Software Developer from Berlin, Germany.</h2>
 
-<br/>
+###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin" />
-  </a>
-  <a href="https://www.youtube.com/@your-youtube" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube" />
-  </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter" />
-  </a>
-</div>
+<p align="left">
+I’m a passionate frontend developer with over 2 years of experience building dynamic and responsive web applications using modern JavaScript technologies.  
+Currently pursuing my MSc in Computer Science at the International University of Applied Sciences, Berlin (2024–2026).  
+I love crafting scalable interfaces with React, Tailwind, and Next.js — continuously learning and improving every day.
+</p>
 
-<br/>
+###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahrukh-Nasir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shahrukh-Nasir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<h1 align="center">hey there 👋</h1>
+###
 
-## 👩‍💻 About Me
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-I’m a Master’s student in Computer Science in Germany, currently building **Medicare**, a full-stack appointment scheduling platform focused on reliable, conflict-free bookings and a clean frontend experience.
+###
 
-- 🔭 I’m working on: **Medicare** (Next.js + Prisma + PostgreSQL + NextAuth)
-- 🌱 I’m currently learning: **backend development with Next.js (App Router) and Express.js** — API design, authentication, and database integration
-- 👯 I’m looking to collaborate on: **open-source full-stack web projects** using **Next.js, React, and TypeScript**
-- 🤝 I’m looking for help with: **frontend architecture, performance optimization, and UX patterns** in React/Next.js
-- 💬 Ask me about: **React, Next.js, Tailwind CSS, frontend performance, and integrating APIs with Express/Prisma**
-- ⚡ Fun fact: I love turning wireframes into delightful, accessible UI
-
-## 🛠 Languages and Tools
+<h3 align="left">🛠️ Tech Stack</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="tailwind logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwind" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="prisma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="vercel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-## 🔥 My Stats
+###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+<h3 align="left">💼 Work Experience</h3>
+
+- **Software Developer – Munzai Solutions (01/2022 – 10/2023, Karachi, Pakistan)**  
+  Built modern web applications using React, Tailwind CSS, and Vite, improving performance and scalability.  
+  - Enhanced code maintainability by **30%** and reduced feature development time by **20%**.  
+  - Optimized UI/UX for responsiveness, reducing page load time by **40%**.  
+  - Boosted deployment efficiency through streamlined CI/CD branching and Node.js builds.  
+
+- **Software Developer – Centegy Technologies (07/2021 – 12/2021, Karachi, Pakistan)**  
+  Led full lifecycle projects for SD Pro implementation across 15+ clients.  
+  - Increased client operational efficiency by **35%**.  
+  - Delivered 20+ training sessions and reduced post-implementation issues by **30%**.  
+
+###
+
+<h3 align="left">🎓 Education</h3>
+
+- **MSc. Computer Science**, International University of Applied Sciences, Berlin (2024–2026)  
+- **BSc. Computer Engineering**, Sir Syed University of Engineering and Technology, Karachi (2014–2018)  
+
+###
+
+<h3 align="left">🚀 Projects</h3>
+
+- **Inventory Management System** – Built a POS & stock management platform using Node.js, React, and SQL.  
+- **Patient Management System (Master’s Project)** – Developed a full-stack healthcare management app with role-based access control.
+
+###
+
+<h3 align="left">🌍 Languages</h3>
+
+- English – Full Professional Proficiency  
+- German – Elementary Proficiency  
+
+###
+
+<h3 align="left">📫 Contact Me</h3>
+
+<div align="left">
+  <a href="mailto:shahrukh_124@hotmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" /></a>
+  <a href="https://www.linkedin.com/in/shahrukhnasir/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" /></a>
+  <a href="https://github.com/Shahrukh-Nasir"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35" alt="github logo" /></a>
 </div>
 
-## 📦 Highlighted Project
+###
 
-**Medicare — Appointment Scheduling Platform**  
-Full-stack app with **Next.js 14**, **TypeScript**, **Prisma ORM**, **PostgreSQL**, and **NextAuth**. Focused on clean UI, accessible design, and conflict-free scheduling backed by transactional validation.
+<br clear="both">
 
-- Frontend: **Next.js + React + Tailwind CSS**
-- Backend: **API routes (App Router)** with **Prisma** and **PostgreSQL**
-- Auth: **NextAuth.js** (credentials, JWT sessions)
-- Status: **Active development** — contributions and feedback welcome
-
+<img src="https://raw.githubusercontent.com/Shahrukh-Nasir/Shahrukh-Nasir/output/snake.svg" alt="Snake animation" />
